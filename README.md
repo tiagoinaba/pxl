@@ -1,2 +1,2 @@
 # pxl
-Pixel art editor with Vim-like motions
+Pixel art editor with ***Vim-like*** motions
